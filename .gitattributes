@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
+bin/
+obj/
+.vs/
+*/bin/
+*/obj/ Auto detect text files and perform LF normalization
 * text=auto
